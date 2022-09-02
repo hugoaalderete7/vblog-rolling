@@ -1,0 +1,27 @@
+#container{
+    width: 250px;
+    height:400px;
+    background-color:cornflowerblue;
+    margin: 5% 40%;
+    text-align: center;
+    font-family:'Franklin Gothic Medium';
+    font-size: large;
+}
+header{
+    font-family:'Franklin Gothic Medium' ;
+    text-align: center;
+    background-color:cornflowerblue
+}
+body{
+    background-color:lightskyblue    
+}
+table{
+    text-align: center;
+    font-family:'Franklin Gothic Medium';
+}
+#promos{
+    margin: 1% 35%;
+}
+h2{
+    font-family:'Franklin Gothic Medium';
+}
